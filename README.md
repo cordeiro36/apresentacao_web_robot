@@ -12,4 +12,4 @@ Inserir o comando "pip install robotframework" para instalar o robotframework
 
 Inserir o comando "pip install -r requirements.txt" e "rfbrowser init" para instalar as dependencias do projeto
 
-Rodar o projeto através do comando "pip install -r requirements.txt"
+Rodar o projeto através do comando "robot -d ./logs tests"
